@@ -1,5 +1,5 @@
 # Hi everyone, I'm Ballo Youssouf
-<img align="right" alt="GIF" src="https://github.com/ballo-youssouf/ballo-youssouf/tree/main/images/code.gif" width="53%" />
+<img align="right" alt="GIF" src="https://github.com/ballo-youssouf/ballo-youssouf/blob/main/images/code.gif" width="53%" />
 <p>
 Nice to meet you. Let me introduce myself in a few lines.
   <ul>
@@ -13,13 +13,13 @@ Nice to meet you. Let me introduce myself in a few lines.
 
   </ul>
 Passionate IT engineer, I am always looking for new challenges.
-<br>For several years now, I have been interested in distributed applications, therefore <b>containerization technologies</b>, DevOps with <b>Infrastructure as Code</b>and <b>CI/CD pipelines. </b>
+<br>For several years now, I have been interested in distributed applications, therefore <b>containerization technologies</b>, DevOps with <b>Infrastructure as Code</b> and <b>CI/CD pipelines. </b>
 </p>
 
 ## 🌐 You can find me on :
 <p align="center">
-  <a href="https://ci.linkedin.com/in/youssouf-ballo-32035190/" target="_blank"><img alt="Ballo Youssouf LinkedIn profile" src="https://github.com/ballo-youssouf/ballo-youssouf/tree/main/images/linkedin-button.png" width="13%"></a>
-  <!-- <a href="https://wiki-tech.io/" target="_blank"><img alt="Wiki-Tech Article" src="https://github.com/ballo-youssouf/ballo-youssouf/tree/main/images/wiki-tech.gif" width="13%"></a> -->
+  <a href="https://ci.linkedin.com/in/youssouf-ballo-32035190/" target="_blank"><img alt="Ballo Youssouf LinkedIn profile" src="https://github.com/ballo-youssouf/ballo-youssouf/blob/main/images/linkedin-button.png" width="13%"></a>
+  <!-- <a href="https://wiki-tech.io/" target="_blank"><img alt="Wiki-Tech Article" src="https://github.com/ballo-youssouf/ballo-youssouf/blob/main/images/wiki-tech.gif" width="13%"></a> -->
 </p>
 
 ## 🖥️ My tech stacks :
@@ -30,25 +30,25 @@ Passionate IT engineer, I am always looking for new challenges.
   <tr border: none;>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/ballo-youssouf/ballo-youssouf/tree/main/images/aws-logo.png" width="48" height="48" alt="AWS" />
+        <img src="https://github.com/ballo-youssouf/ballo-youssouf/blob/main/images/aws-logo.png" width="48" height="48" alt="AWS" />
       </a>
       <br>AWS
     </td>
     <!-- <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/ballo-youssouf/ballo-youssouf/tree/main/images/GCP-logo.png" width="48" height="48" alt="GCP" />
+        <img src="https://github.com/ballo-youssouf/ballo-youssouf/blob/main/images/GCP-logo.png" width="48" height="48" alt="GCP" />
       </a>
       <br>GCP
     </td> 
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/ballo-youssouf/ballo-youssouf/tree/main/images/proxmox-logo.png" width="48" height="48" alt="Proxmox" />
+        <img src="https://github.com/ballo-youssouf/ballo-youssouf/blob/main/images/proxmox-logo.png" width="48" height="48" alt="Proxmox" />
       </a>
       <br>Proxmox
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/ballo-youssouf/ballo-youssouf/tree/main/images/vmware-logo.jpg" width="48" height="48" alt="VMware Products" />
+        <img src="https://github.com/ballo-youssouf/ballo-youssouf/blob/main/images/vmware-logo.jpg" width="48" height="48" alt="VMware Products" />
       </a>
       <br>VMware Products
     </td> -->
@@ -60,37 +60,37 @@ Passionate IT engineer, I am always looking for new challenges.
   <tr border: none;>
   <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/ballo-youssouf/ballo-youssouf/tree/main/images/bash-logo.png" width="48" height="48" alt="Bash" />
+        <img src="https://github.com/ballo-youssouf/ballo-youssouf/blob/main/images/php-logo.png" width="48" height="48" alt="php" />
       </a>
-      <br>php
+      <br>PHP
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/ballo-youssouf/ballo-youssouf/tree/main/images/bash-logo.png" width="48" height="48" alt="Bash" />
+        <img src="https://github.com/ballo-youssouf/ballo-youssouf/blob/main/images/golang-logo.png" width="48" height="48" alt="Golang" />
       </a>
       <br>Golang
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/ballo-youssouf/ballo-youssouf/tree/main/images/bash-logo.png" width="48" height="48" alt="Bash" />
+        <img src="https://github.com/ballo-youssouf/ballo-youssouf/blob/main/images/java-logo.jpg" width="48" height="48" alt="Java" />
       </a>
       <br>Java
     </td>
    <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/ballo-youssouf/ballo-youssouf/tree/main/images/bash-logo.png" width="48" height="48" alt="Bash" />
+        <img src="https://github.com/ballo-youssouf/ballo-youssouf/blob/main/images/bash-logo.png" width="48" height="48" alt="Bash" />
       </a>
       <br>Bash
     </td>
     <!-- <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/ballo-youssouf/ballo-youssouf/tree/main/images/markdown-logo.png" width="48" height="48" alt="Markdown" />
+        <img src="https://github.com/ballo-youssouf/ballo-youssouf/blob/main/images/markdown-logo.png" width="48" height="48" alt="Markdown" />
       </a>
       <br>Markdown
     </td> -->
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/ballo-youssouf/ballo-youssouf/tree/main/images/yaml-logo.png" width="48" height="48" alt="YAML" />
+        <img src="https://github.com/ballo-youssouf/ballo-youssouf/blob/main/images/yaml-logo.png" width="48" height="48" alt="YAML" />
       </a>
       <br>YAML
     </td>
@@ -103,13 +103,13 @@ Passionate IT engineer, I am always looking for new challenges.
   <tr border: none;>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/ballo-youssouf/ballo-youssouf/tree/main/images/debian-logo.png" width="48" height="48" alt="Debian" />
+        <img src="https://github.com/ballo-youssouf/ballo-youssouf/blob/main/images/debian-logo.png" width="48" height="48" alt="Debian" />
       </a>
       <br>Debian
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/ballo-youssouf/ballo-youssouf/tree/main/images/windows-logo.png" width="48" height="48" alt="Windows" />
+        <img src="https://github.com/ballo-youssouf/ballo-youssouf/blob/main/images/windows-logo.png" width="48" height="48" alt="Windows" />
       </a>
       <br>Windows
     </td>
@@ -122,62 +122,62 @@ Passionate IT engineer, I am always looking for new challenges.
   <tr border: none;>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/ballo-youssouf/ballo-youssouf/tree/main/images/jenkins_logo.png" width="48" height="48" alt="Jenkins" />
+        <img src="https://github.com/ballo-youssouf/ballo-youssouf/blob/main/images/jenkins_logo.png" width="48" height="48" alt="Jenkins" />
       </a>
       <br>Jenkins
     </td>
        <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/ballo-youssouf/ballo-youssouf/tree/main/images/gitlab-logo.png" width="48" height="48" alt="GitLab-CI" />
+        <img src="https://github.com/ballo-youssouf/ballo-youssouf/blob/main/images/gitlab-logo.png" width="48" height="48" alt="GitLab-CI" />
       </a>
       <br>Gitlab-CI
     </td>	  
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/ballo-youssouf/ballo-youssouf/tree/main/images/ansible-logo.png" width="48" height="48" alt="Ansible" />
+        <img src="https://github.com/ballo-youssouf/ballo-youssouf/blob/main/images/ansible-logo.png" width="48" height="48" alt="Ansible" />
       </a>
       <br>Ansible
     </td>
     <!-- <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/ballo-youssouf/ballo-youssouf/tree/main/images/cloud-init-logo.png" width="48" height="48" alt="Cloud-Init" />
+        <img src="https://github.com/ballo-youssouf/ballo-youssouf/blob/main/images/cloud-init-logo.png" width="48" height="48" alt="Cloud-Init" />
       </a>
       <br>Cloud-Init
     </td> -->
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/ballo-youssouf/ballo-youssouf/tree/main/images/docker-logo.png" width="48" height="48" alt="Docker" />
+        <img src="https://github.com/ballo-youssouf/ballo-youssouf/blob/main/images/docker-logo.png" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
         </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/ballo-youssouf/ballo-youssouf/tree/main/images/kubernetes-logo.png" width="48" height="48" alt="Kubernetes" />
+        <img src="https://github.com/ballo-youssouf/ballo-youssouf/blob/main/images/kubernetes-logo.png" width="48" height="48" alt="Kubernetes" />
       </a>
       <br>Kubernetes
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/ballo-youssouf/ballo-youssouf/tree/main/images/git-logo.png" width="48" height="48" alt="Git" />
+        <img src="https://github.com/ballo-youssouf/ballo-youssouf/blob/main/images/git-logo.png" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/ballo-youssouf/ballo-youssouf/tree/main/images/terraform-logo.png" width="48" height="48" alt="Terraform" />
+        <img src="https://github.com/ballo-youssouf/ballo-youssouf/blob/main/images/terraform-logo.png" width="48" height="48" alt="Terraform" />
       </a>
       <br>Terraform
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/ballo-youssouf/ballo-youssouf/tree/main/images/vagrant-logo.png" width="48" height="48" alt="Vagrant" />
+        <img src="https://github.com/ballo-youssouf/ballo-youssouf/blob/main/images/vagrant-logo.png" width="48" height="48" alt="Vagrant" />
       </a>
       <br>Vagrant
     </td>    
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/ballo-youssouf/ballo-youssouf/tree/main/images/visual-studio-logo.png" width="48" height="48" alt="Visual Studio Code" />
+        <img src="https://github.com/ballo-youssouf/ballo-youssouf/blob/main/images/visual-studio-logo.png" width="48" height="48" alt="Visual Studio Code" />
       </a>
       <br>VS Code
     </td>
@@ -202,11 +202,11 @@ Passionate IT engineer, I am always looking for new challenges.
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ballo-youssouf&hide_border=true" />
 </details>
 
-<details>
+<!-- <details>
   <summary><b>🧑‍🚀 Open Source Projects</b></summary>
 
   <br />
-  <!-- <table>
+  <table>
     <thead align="center">
       <tr border: none;>
         <td><b>💻 Projects</b></td>
@@ -226,8 +226,8 @@ Passionate IT engineer, I am always looking for new challenges.
       </tr>
     </tbody>
   </table>
-  <br /> -->
-</details>
+  <br />
+</details> -->
 <!-- 
 <details>	
   <br />
