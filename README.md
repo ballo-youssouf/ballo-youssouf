@@ -60,7 +60,7 @@ Passionate IT engineer, I am always looking for new challenges.
   <tr border: none;>
   <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/ballo-youssouf/ballo-youssouf/blob/main/images/php-logo.png" width="48" height="48" alt="php" />
+        <img src="https://github.com/ballo-youssouf/ballo-youssouf/blob/main/images/php-logo.jpg" width="48" height="48" alt="php" />
       </a>
       <br>PHP
     </td>
@@ -175,12 +175,12 @@ Passionate IT engineer, I am always looking for new challenges.
       </a>
       <br>Vagrant
     </td>    
-    <td align="center" width="110">
+    <!-- <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
         <img src="https://github.com/ballo-youssouf/ballo-youssouf/blob/main/images/visual-studio-logo.png" width="48" height="48" alt="Visual Studio Code" />
       </a>
       <br>VS Code
-    </td>
+    </td> -->
   </tr>
 </table>
 </p>
