@@ -66,7 +66,7 @@ Passionate IT engineer, I am always looking for new challenges.
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/ballo-youssouf/ballo-youssouf/blob/main/images/golang-logo.png" width="48" height="48" alt="Golang" />
+        <img src="https://github.com/ballo-youssouf/ballo-youssouf/blob/main/images/golang-logo.jpg" width="48" height="48" alt="Golang" />
       </a>
       <br>Golang
     </td>
